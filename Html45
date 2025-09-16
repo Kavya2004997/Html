@@ -1,9 +1,11 @@
 <html>
 <head>
-<title> Web programming</title>
+  <title>Clickable Image</title>
 </head>
 <body>
-<h1>Html program</h1>
-<p>Welcome to html</p>
+  <h2>Click the Image Below 👇</h2>
+  <a href="https://www.nasa.gov" target="_blank">
+    <img src="https://www.w3schools.com/html/rocket.jpg" alt="Rocket" width="300">
+  </a>
 </body>
 </html>
